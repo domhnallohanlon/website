@@ -1,0 +1,19 @@
+h1{
+	color: red;
+	font-family: 'Indie Flower', cursive;
+	font-size: 50px;
+	font-weight: bold;
+	font-style: italic;
+	font-variant: small-caps;
+
+	
+
+}
+
+p{
+	font-size: 24px;
+	font-family: 'Raleway', sans-serif;
+	text-indent: 50px;
+	line-height: 2.5;
+	text-decoration: line-through;
+}
